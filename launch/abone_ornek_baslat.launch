@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+
+<launch>
+
+	<node pkg="yayinci_abone_ornek" type="abone_ornek_dugumu.py" name="abone_ornek_dugumu" output="screen" />
+	
+</launch>
